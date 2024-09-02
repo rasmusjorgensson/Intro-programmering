@@ -2,7 +2,10 @@ Rasmus Jörgensson Loggbok
 ---------------------------
 24-09-02
 --------
-Denna lektionen så började vi att skriv lite kod inuti v code
+Denna lektionen så började vi att skriv lite kod inuti v code,
+
+* 7040 uppgift 1 och 2
+* exempel 1
 
 24-08-30
 ----------
