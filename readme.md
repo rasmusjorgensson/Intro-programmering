@@ -4,7 +4,7 @@ Rasmus Jörgensson Loggbok
 --------
 Idag gick vi igenom if sats
 
-* 7050 uppgift 
+* 7050 uppgift 1,2,3,4 och började på 5
 
 
 
