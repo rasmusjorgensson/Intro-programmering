@@ -1,5 +1,13 @@
 Rasmus Jörgensson Loggbok
 ---------------------------
+24-09-13
+--------
+Idag gick vi igenom if sats
+
+* 7050 uppgift 
+
+
+
 24-09-02
 --------
 Denna lektionen så började vi att skriv lite kod inuti v code,
