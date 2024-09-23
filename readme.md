@@ -1,11 +1,16 @@
 Rasmus Jörgensson Loggbok
 ---------------------------
+24-09-23
+--------
+På dagens lektion gick vi igenom slingor-while
+
+* 7060-71 uppgift 1 och påbörjade 2 men han inte klart denna gång
+
 24-09-13
 --------
 Idag gick vi igenom if sats
 
 * 7050 uppgift 1,2,3,4 och började på 5
-
 
 
 24-09-02
