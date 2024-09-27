@@ -15,3 +15,4 @@ while spela == 'j':
     spela = input("Vill du spela igen? j/n: ")
 
 print("Vad roligt att du spelade en stund!")
+
