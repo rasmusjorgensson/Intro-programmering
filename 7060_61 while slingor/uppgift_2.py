@@ -1,3 +1,2 @@
 svar = input("Skriv ett tal mellan 38 och 44")
-while svar != 42:
-    
+print("JAG GJORDE DEN UPPGITEN MED GUSTAV FÖR MIN DATOR DOG")

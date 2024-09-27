@@ -1,5 +1,11 @@
 Rasmus Jörgensson Loggbok
 ---------------------------
+24-09-27
+--------
+Idag gick vi igeom random slingor
+
+* 7070 uppgift 1
+
 24-09-23
 --------
 På dagens lektion gick vi igenom slingor-while
