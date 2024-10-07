@@ -1,8 +1,12 @@
 Rasmus Jörgensson Loggbok
 ---------------------------
+24-10-7
+-------
+Idag så fortsatte vi med 7070 och påbörjade lucky seven och jag gjorde första uppgiften.
+
 24-09-27
 --------
-Idag gick vi igeom random slingor
+Idag gick vi igeom random slingor, jag gjorde uppgift 2-3 med gustav för min dator dog.
 
 * 7070 uppgift 1
 
