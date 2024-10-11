@@ -1,5 +1,9 @@
 Rasmus Jörgensson Loggbok
 ---------------------------
+24-10-11
+--------
+idag så gick igenom flödesschema och jag gjorde uppgift 1 och 2.
+
 24-10-7
 -------
 Idag så fortsatte vi med 7070 och påbörjade lucky seven och jag gjorde första uppgiften.
