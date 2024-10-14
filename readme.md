@@ -1,5 +1,9 @@
 Rasmus Jörgensson Loggbok
 ---------------------------
+24-10-14
+--------
+Fortsatte idag med flödesschema och gjorde uppgifterna 3,4 och 5.
+
 24-10-11
 --------
 idag så gick igenom flödesschema och jag gjorde uppgift 1 och 2.
