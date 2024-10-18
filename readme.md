@@ -1,5 +1,9 @@
 Rasmus Jörgensson Loggbok
 ---------------------------
+24-10-18
+--------
+Gjorde uppgift 6 och sedan började med 7 men skrev en kod som inte funka så får fortsätta nästa gång.
+
 24-10-14
 --------
 Fortsatte idag med flödesschema och gjorde uppgifterna 3,4 och 5.
