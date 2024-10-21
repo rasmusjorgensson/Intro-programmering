@@ -1,5 +1,10 @@
 Rasmus Jörgensson Loggbok
 ---------------------------
+
+24-10-21
+--------
+"for" genomgång för "in range" genomgång. gjorde 7095 och började på 7096 
+
 24-10-18
 --------
 Gjorde uppgift 6 och sedan började med 7 men skrev en kod som inte funka så får fortsätta nästa gång.
