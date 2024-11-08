@@ -2,10 +2,12 @@ Rasmus Jörgensson Loggbok
 ---------------------------
 24-11-08
 --------
-fortsatte med 7100 och gjorde klart uppgift 2
+gjorde uppgift 2 och kollade igenom uppgift 3 på 7100
+
 24-10-25
 --------
 började på 7100
+
 24-10-21
 --------
 "for" genomgång för "in range" genomgång. gjorde 7095 och började på 7096 
