@@ -1,5 +1,9 @@
 Rasmus Jörgensson Loggbok
 ---------------------------
+24-11-11
+--------
+Gjorde uppgift 3 och 4a
+
 24-11-08
 --------
 gjorde uppgift 2 och kollade igenom uppgift 3 på 7100
