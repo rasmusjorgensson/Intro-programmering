@@ -1,5 +1,11 @@
 Rasmus Jörgensson Loggbok
 ---------------------------
+24-11-15
+--------
+Gjorde uppgift 5 i 7100
+24-11-15
+--------
+Idag fortsatte jag med uppgifter på 7100
 24-11-11
 --------
 Gjorde uppgift 3 och 4a
