@@ -1,5 +1,9 @@
 Rasmus Jörgensson Loggbok
 ---------------------------
+23-11-29
+--------
+började med 7080 och gjorde uppgift 1
+
 24-11-15
 --------
 Gjorde uppgift 5a och b i 7100  
