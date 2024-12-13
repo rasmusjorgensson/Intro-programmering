@@ -2,7 +2,7 @@ Rasmus Jörgensson Loggbok
 ---------------------------
 24-12-13
 --------
-
+Gjorde uppgift 2a,2b och 3an i 7080
 
 24-11-29
 --------
