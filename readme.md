@@ -1,6 +1,10 @@
 Rasmus Jörgensson Loggbok
 ---------------------------
-23-11-29
+24-12-13
+--------
+
+
+24-11-29
 --------
 började med 7080 och gjorde uppgift 1
 
